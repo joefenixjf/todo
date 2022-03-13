@@ -1,4 +1,4 @@
-# Projeto NetflixClone
+# Projeto Lista de tarefas
 
 Projeto com base no projeto do video aula [Lista de Tarefas em React (com Typescript)](https://www.youtube.com/watch?v=95sAtAareR8&t=3800s)
 
